@@ -1,0 +1,87 @@
+App,grandtotal,delivery_fee,subtotal,tip,Delivery_last_week,delivery_time,time_of_day,Income_level,Gender
+Doordash,20,3,15,2,1,30,Lunch,$0-$15 per/hour,Female
+Doordash,27.27,2.99,17.92,3,1,35,Afternoon,Over $31 per/hour,Male
+Grubhub,60.63,0,48.59,7.91,1,25,Evening,Over $31 per/hour,Male
+Doordash,25.42,30.42,0,3,0,20,Lunch,$0-$15 per/hour,Female
+Doordash,19.03,3.99,7.28,3,4,30,Lunch,$16-$30 per/hour,Female
+Uber Eats,9.14,2,4.4,0.66,1,25,Morning,$0-$15 per/hour,Female
+Doordash,21.95,2.99,12.95,3,0,30,Lunch,$0-$15 per/hour,Female
+Doordash,33.66,4,19.39,5,1,60,Evening,$0-$15 per/hour,Female
+Uber Eats,35,3,25,2,0,40,Evening,$16-$30 per/hour,Female
+Doordash,24.36,0,15.3,4,2,45,Lunch,$16-$30 per/hour,Female
+Doordash,20.72,2.99,13,2,0,30,Lunch,$0-$15 per/hour,Female
+Postmates,58.97,2.99,39.8,2,1,50,Afternoon,$0-$15 per/hour,Female
+Uber Eats,35.36,0,24.8,4.61,1,45,Evening,$0-$15 per/hour,Female
+Uber Eats,26.95,4,22.95,0,1,30,Evening,$0-$15 per/hour,Male
+Doordash,32.11,1.99,26.53,1,3,50,Evening,$0-$15 per/hour,Female
+Doordash,29.16,1.01,20.23,4,1,30,Evening,$16-$30 per/hour,Female
+Doordash,5,1,2,1,0,0,Lunch,$0-$15 per/hour,Female
+Grubhub,6.5,0,6.5,2.5,1,10,Lunch,$0-$15 per/hour,Female
+Doordash,21.36,5.99,14.77,3,1,35,Evening,$0-$15 per/hour,Female
+Uber Eats,19.03,2.49,11.02,0,1,20,Evening,$0-$15 per/hour,Female
+Doordash,21.36,5.99,14.77,3,1,35,Evening,$0-$15 per/hour,Female
+Doordash,29.16,1.01,20.23,4,1,30,Evening,$16-$30 per/hour,Female
+Grubhub,86.97,0.49,64.97,10,1,45,Evening,Over $31 per/hour,Female
+Uber Eats,9.14,2,4.4,0.66,1,25,Morning,$0-$15 per/hour,Female
+Grubhub,52,2.99,30.98,6,0,40,Evening,$16-$30 per/hour,Female
+Doordash,75,3.98,69,3,2,30,Evening,$16-$30 per/hour,Female
+Uber Eats,34.58,1.99,22.87,4,0,20,Morning,$0-$15 per/hour,Male
+Doordash,47.55,3.99,31.14,5,0,45,Evening,$0-$15 per/hour,Female
+Uber Eats,22.24,4,18.24,3,0,35,Lunch,Over $31 per/hour,Male
+Doordash,27.91,4.99,14.9,3,0,45,Evening,$16-$30 per/hour,Female
+Uber Eats,26.32,2,23,0,1,40,Evening,$16-$30 per/hour,Male
+Doordash,29.94,0,18.39,5,1,30,Morning,$16-$30 per/hour,Female
+Doordash,29.94,0,18.39,5,1,30,Morning,$16-$30 per/hour,Female
+Uber Eats,40.22,3.49,24.2,7,2,40,Evening,$0-$15 per/hour,Male
+Uber Eats,40,0,35,3,0,20,Evening,Over $31 per/hour,Female
+Doordash,26.59,4.8,20.49,2,1,45,Evening,$16-$30 per/hour,Male
+Doordash,42.48,0,36,5,3,45,Lunch,Over $31 per/hour,Male
+Doordash,44.87,7.99,34.97,8,0,40,Lunch,$16-$30 per/hour,Female
+Uber Eats,45.66,0,31.4,6.22,1,45,Evening,$16-$30 per/hour,Female
+Uber Eats,37.2,0.99,21.57,5.86,0,40,Evening,Over $31 per/hour,Female
+Doordash,39.1,2.99,35.79,5,0,25,Lunch,$16-$30 per/hour,Female
+Doordash,18.93,1.99,7.98,2,2,50,Evening,$16-$30 per/hour,Female
+Doordash,36.98,2.99,21.85,5,0,20,Lunch,$16-$30 per/hour,Female
+Doordash,46.78,4.99,24.95,5,1,45,Afternoon,$16-$30 per/hour,Male
+Doordash,86.48,2.99,56.5,11,3,45,Evening,$16-$30 per/hour,Female
+Doordash,63.09,0,57.75,6,2,0,Lunch,$16-$30 per/hour,Female
+Doordash,55.99,0,51.25,6,1,0,Evening,$16-$30 per/hour,Male
+Postmates,39.18,0,30.73,2,0,40,Evening,$16-$30 per/hour,Female
+Doordash,50,2.99,30,2,2,45,Lunch,$16-$30 per/hour,Female
+Doordash,32.12,0,29.4,5,4,0,Lunch,$16-$30 per/hour,Male
+Doordash,40.87,2.99,24.9,7,4,26,Evening,$16-$30 per/hour,Male
+Doordash,31.85,0,33.73,0,1,0,Lunch,$16-$30 per/hour,Female
+Doordash,35.33,2.99,22,5,0,14,Evening,$16-$30 per/hour,Female
+Doordash,35.33,2.99,22,5,0,14,Evening,$16-$30 per/hour,Female
+Doordash,23.78,1.99,17.5,0,2,40,Afternoon,$0-$15 per/hour,Male
+Postmates,22.84,2.99,13.79,3.86,1,40,Evening,$16-$30 per/hour,Male
+Doordash,25.19,0,23,0,3,0,Evening,Over $31 per/hour,Male
+Doordash,44.87,7.99,34.97,8,0,40,Lunch,$16-$30 per/hour,Female
+Doordash,105.54,2.99,80.5,17.49,0,30,Lunch,$0-$15 per/hour,Female
+Doordash,46.23,11,35.23,5,0,45,Evening,$16-$30 per/hour,Male
+Doordash,14.37,4.99,8,2,1,40,Evening,$16-$30 per/hour,Male
+Uber Eats,20,1.49,12.35,1.02,0,40,Afternoon,$16-$30 per/hour,Male
+Doordash,22,0,14,4,2,28,Lunch,Over $31 per/hour,Female
+Grubhub,14.98,0,9.98,2,1,25,Lunch,$16-$30 per/hour,Male
+Uber Eats,37.2,0.99,21.57,5.86,0,40,Evening,Over $31 per/hour,Female
+Doordash,76.98,4.99,55.91,12,0,20,Morning,Over $31 per/hour,Female
+Doordash,47,0,35,6,0,40,Morning,$16-$30 per/hour,Male
+Doordash,85,6.99,61,2,4,51,Evening,$0-$15 per/hour,Female
+Doordash,65,3.99,45,0,3,45,Evening,$16-$30 per/hour,Male
+Doordash,50,2.99,30,2,2,45,Lunch,$16-$30 per/hour,Female
+Doordash,105.54,2.99,80.5,17.49,0,30,Lunch,$0-$15 per/hour,Female
+Doordash,27.99,0,19.5,4,0,25,Lunch,$0-$15 per/hour,Female
+Doordash,58.13,0,43,7,1,40,Evening,$16-$30 per/hour,Male
+Doordash,47.12,0,47.12,5,1,32,Evening,Over $31 per/hour,Female
+Doordash,65,3.99,45,0,3,45,Evening,$16-$30 per/hour,Male
+Doordash,15,2,13,5,2,30,Evening,$16-$30 per/hour,Female
+Doordash,33.49,1.3,25.95,4,12,8,Evening,Over $31 per/hour,Male
+Doordash,42.87,0,42.87,0,0,20,Evening,$0-$15 per/hour,Male
+Doordash,30,3,35,3,1,30,Lunch,$16-$30 per/hour,Male
+Postmates,56.01,0,36.51,11.2,3,37,Evening,Over $31 per/hour,Female
+Doordash,27,3,24,5,1,45,Evening,$16-$30 per/hour,Male
+Doordash,27.81,0,19.8,4,0,40,Lunch,$0-$15 per/hour,Female
+Uber Eats,29.3,4.99,15.8,4.88,0,65,Evening,$16-$30 per/hour,Female
+Uber Eats,16.93,0,1.55,0,0,20,Afternoon,$16-$30 per/hour,Female
+Uber Eats,117,0.49,87.75,15.1,0,45,Evening,Over $31 per/hour,Female
+Grubhub,34.12,8.56,25.56,5,1,15,Lunch,$0-$15 per/hour,Female
