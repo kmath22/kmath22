@@ -1,0 +1,30 @@
+Product_Sodium,content
+Tomatosauce(Brand A) ,871
+Tomatosauce(Brand B) ,1250
+Soysauce ,6458
+Tinnedtomatoes ,270
+Fourbeanmix ,250
+Cornkernels ,205
+Mushrooms(tinned), 340
+Tomatopaste ,843
+Chunkypastasauce ,482
+Chickenstock ,521
+Beefstock ,450
+Peanuts ,360
+Beefstrogonoffmix ,780
+Dryroastedmacadamias ,340
+Cashews,510
+Butter,460
+Sunflowerspread, 380
+Bakedbeans ,290
+Peanutbutter ,458
+Frenchonionsoup, 335
+Chickennoodlesoup, 355
+Margarineoriginal ,590
+Pinksalmon ,600
+Gravymixsupreme ,595
+Vegetablestock, 547
+Precookedmeat ,1036
+Spaghetti,410
+Mixednutswithgreenpistachios, 190
+Redsalmon ,530 
