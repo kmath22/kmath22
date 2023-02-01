@@ -1,0 +1,15 @@
+Date,Day of the Week,Amount,Description,Category ,Credit
+20-Jan,Friday,1.1,bus travel ,Travel,Cash
+20-Jan,Friday,4.98,lunch,Food,Cash
+21-Jan,Saturday,170,wifi,Bills,Debit
+22-Jan,Sunday,1.1,bus travel ,Travel,Cash
+22-Jan,Sunday,50,birthday gift,Entertainment and Recreation,Cash
+22-Jan,Sunday,90,dog vaccine,Entertainment and Recreation,Cash
+23-Jan,Monday,1.1,bus travel ,Food,Cash
+23-Jan,Monday,4.98,lunch ,Food,Cash
+24-Jan,Tuesday,1.1,bus travel ,Travel,Cash
+24-Jan,Tuesday,2.39,tea ,Food,Cash
+25-Jan,Wednesday,1.1,bus travel ,Travel,Cash
+125,Wednesday,8.97,lunch ,Food,Cash
+25-Jan,Thursday,1.1,bus travel ,Travel,Cash
+26-Jan,Thursday ,5.25,coffee,Food,Cash
