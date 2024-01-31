@@ -1,0 +1,11 @@
+Timestamp,home_distance,home_to_job,school_to_job,school_travel,GPA,current_paid,work_status,sex,longitude,latitude
+1/30/2024 13:06:26,10,,,I drive to school,0.85,,Unemployed,Female,-122.435,37.70861
+1/30/2024 13:13:32,4.5,23,19,I drive to school,3.36,20,Part-time,Male,-122.49215,37.66411
+1/30/2024 13:16:07,0.6,,,I don't drive to school,3.71,,Unemployed,Female,-122.47541,37.63181
+1/30/2024 13:16:12,15,15 minutes away,I work here.,I drive to school,3.06,18.12,Part-time,Female,-122.418411,37.653191
+1/30/2024 13:40:39,13,15,10,I drive to school,2.62,22,Part-time,Female,-122.41063,37.65706
+1/30/2024 14:12:13,0.1,0.1,0.1,I don't drive to school,3.6,17.1,Part-time,Male,-122.46781,37.63304
+1/30/2024 14:14:15,4.9,4.9,0.05,I drive to school,3.45,16.5,Part-time,Female,-122.48,37.68
+1/30/2024 14:40:19,3.3,,,I don't drive to school,,,Unemployed,Male,-122.4754051,37.6766828
+1/30/2024 14:42:59,1.1,,,I drive to school,3.66,,Unemployed,Male,-122.44613,37.63168
+1/30/2024 17:27:57,7.9,8.9,4.3,I drive to school,3.6,23.34,Full-time,Male,-122.45487,37.72128
