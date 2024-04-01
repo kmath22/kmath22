@@ -1,4 +1,4 @@
-SampleID,Zip Code,Ward,ppb1,ppb2,ppb3,Lead_Level
+SampleID,Zip_Code,Ward,ppb1,ppb2,ppb3,Lead_Level
 1,48504,6,0.344,0.226,0.145,SAFE
 2,48507,9,8.133,10.77,2.761,SAFE
 4,48504,1,1.111,0.11,0.123,SAFE
